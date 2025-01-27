@@ -145,6 +145,7 @@ services:
 # docker exec -it mycomposefiles-db-1 bash
 #mysql -u root -ppassword
 #show databases;
+#exit
 
 GO to the browser of the desktop
 
