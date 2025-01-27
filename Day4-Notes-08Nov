@@ -142,6 +142,9 @@ services:
 
 # docker-compose up -d
 # docker-compose ps
+# docker exec -it mycomposefiles-db-1 bash
+#mysql -u root -ppassword
+#show databases;
 
 GO to the browser of the desktop
 
